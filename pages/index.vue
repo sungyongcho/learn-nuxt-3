@@ -33,6 +33,7 @@
   </q-page>
 </template>
 
+<script lang="ts"></script>
 <script setup lang="ts">
 const { courses } = useCourses();
 </script>
